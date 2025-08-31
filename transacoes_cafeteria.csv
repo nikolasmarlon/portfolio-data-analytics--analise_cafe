@@ -1,0 +1,121 @@
+id_transacao;data;filial;periodo_dia;produto_vendido;quantidade_itens;valor_total_compra;forma_pagamento
+1;06/08/2025;Shopping Iguatemi;Noite;Pão de Queijo;1;16,23;Débito
+2;24/07/2025;Centro;Noite;Cappuccino;1;15,41;Crédito
+3;07/08/2025;centro;Manhã;Cappuccino;1;-34,18;Pix
+4;10/08/2025;Shopping Iguatemi;Manhã;Cheesecake;2;58,16;Dinheiro
+5;06/07/2025;Centro;Tarde;Espresso;1;37,54;Dinheiro
+6;30/08/2025;Shopping Iguatemi;Manhã;Cappuccino;1;48,16;Débito
+7;26/07/2025;Shopping Iguatemi;Manhã;Cheesecake;1;16,41;Dinheiro
+8;15/07/2025;Zona Sul;Tarde;Suco de Laranja;1;23,62;Débito
+9;05/08/2025;Zona Sul;Manhã;Frappuccino;2;37,51;Crédito
+10;25/07/2025;Shopping Iguatemi;Noite;Pão de Queijo;1;13,79;Crédito
+11;04/06/2025;Shopping Iguatemi;Noite;Cappuccino;2;29,24;Dinheiro
+12;21/07/2025;centro;Noite;Cheesecake;1;32,70;Pix
+13;17/08/2025;Aeroporto;Tarde;Frappuccino;1;7,95;Débito
+14;22/08/2025;Centro;Tarde;Cappuccino;1;48,01;Débito
+15;14/07/2025;Aeroporto;Noite;Água;1;;Débito
+16;21/08/2025;Aeroporto;Manhã;Frappuccino;1;14,34;Pix
+17;11/07/2025;Centro;Manhã;Frappuccino;1;;Dinheiro
+18;09/08/2025;centro;Manhã;Água;1;14,47;Débito
+19;02/08/2025;Zona Sul;Tarde;Cappuccino;1;43,73;Crédito
+20;20/08/2025;Aeroporto;Manhã;Suco de Laranja;1;33,49;Dinheiro
+21;10/08/2025;Aeroporto;Noite;Água;1;;Dinheiro
+22;04/08/2025;centro;Manhã;Pão de Queijo;1;22,64;Crédito
+23;09/08/2025;Aeroporto;Manhã;Espresso;1;41,30 reais;Crédito
+24;20/07/2025;Shopping Iguatemi;Noite;Croissant;2;46,10;Crédito
+25;05/07/2025;Zona Sul;Tarde;Espresso;1;39,01;Débito
+26;27/08/2025;Centro;Tarde;Água;2;37,01 reais;Débito
+27;30/07/2025;Aeroporto;Manhã;Frappuccino;1;34,02;Débito
+28;05/08/2025;Shopping Iguatemi;Tarde;Cheesecake;1;33,85;Crédito
+29;18/07/2025;Shopping Iguatemi;Noite;Água;2;92,83;Crédito
+30;10/06/2025;Zona Sul;Noite;Espresso;1;37,68;Dinheiro
+31;30/07/2025;Aeroporto;Noite;Espresso;2;;Crédito
+32;16/07/2025;Shopping Iguatemi;Noite;Cheesecake;1;R$ 19,14;Débito
+33;22/06/2025; ZONA SUL ;Manhã;Frappuccino;1;;Crédito
+34;06/06/2025;Shopping Iguatemi;Manhã;Croissant;1;26,92;Pix
+35;08/07/2025;Shopping Iguatemi;Noite;Suco de Laranja;1;26,92;Pix
+36;14/06/2025; ZONA SUL ;Manhã;Pão de Queijo;1;33,72;Pix
+37;20/06/2025;Aeroporto;Manhã;Croissant;8;;Dinheiro
+38;09/07/2025;Zona Sul;Noite;Cheesecake;2;68,43;Crédito
+39;29/06/2025;Zona Sul;Noite;Suco de Laranja;1;31,04;Dinheiro
+40;30/07/2025;Shopping Iguatemi;Manhã;Cappuccino;1;39,26;Débito
+41;27/07/2025;Zona Sul;Tarde;Água;1;22,78;Débito
+42;24/06/2025; ZONA SUL ;Noite;Cheesecake;1;39,66;Dinheiro
+43;05/06/2025;Aeroporto;Tarde;Cappuccino;1;21,62;Débito
+44;10/08/2025;centro;Tarde;Água;2;52,45;Dinheiro
+45;16/06/2025;Zona Sul;Manhã;Cheesecake;1;9,54;Débito
+46;27/08/2025;Aeroporto;Noite;Água;1;10,33;Dinheiro
+47;16/07/2025;centro;Noite;Frappuccino;3;89,92;Pix
+48;09/08/2025;Shopping Iguatemi;Tarde;Água;1;24,07;Crédito
+49;23/07/2025; ZONA SUL ;Tarde;Cappuccino;1;47,54;Pix
+50;24/07/2025;Aeroporto;Noite;Cheesecake;3;21,77;Débito
+51;18/07/2025;Aeroporto;Tarde;Água;1;11,61;Crédito
+52;04/08/2025;Shopping Iguatemi;Manhã;Suco de Laranja;2;17,68;Pix
+53;03/06/2025;centro;Manhã;Espresso;2;61,10;Dinheiro
+54;05/06/2025; ZONA SUL ;Noite;Espresso;1;27,93;Débito
+55;09/08/2025; ZONA SUL ;Manhã;Cappuccino;1;43,16;Pix
+56;13/08/2025;centro;Noite;Cappuccino;3;43,52;Débito
+57;26/07/2025;centro;Manhã;Cheesecake;2;86,01;Pix
+58;28/08/2025;Aeroporto;Noite;Água;1;9,92;Crédito
+59;05/08/2025; ZONA SUL ;Noite;Croissant;1;5,91;Débito
+60;06/06/2025; ZONA SUL ;Tarde;Suco de Laranja;2;77,65;credito
+61;05/08/2025;Shopping Iguatemi;Noite;Água;2;;Crédito
+62;29/08/2025; ZONA SUL ;Manhã;Cheesecake;1;;Pix
+63;19/06/2025;Shopping Iguatemi;Manhã;Cheesecake;1;24,12;Pix
+64;28/07/2025;Shopping Iguatemi;Noite;Cappuccino;1;16,82;Débito
+65;04/06/2025;Centro;Noite;Croissant;2;40,73;Crédito
+66;06/07/2025; ZONA SUL ;Tarde;Cheesecake;1;31,68;Pix
+67;16/06/2025;centro;Noite;Frappuccino;1;-39,79;Pix
+68;25/07/2025;Aeroporto;Manhã;Cheesecake;3;62,25;Pix
+69;15/08/2025;centro;Noite;Croissant;2;66,25;Pix
+70;06/08/2025;centro;Noite;Cheesecake;1;46,01;Dinheiro
+71;07/06/2025; ZONA SUL ;Noite;Cheesecake;1;8,07;Débito
+72;10/06/2025; ZONA SUL ;Tarde;Suco de Laranja;2;;Crédito
+73;04/08/2025;Shopping Iguatemi;Manhã;Pão de Queijo;3;;Crédito
+74;01/08/2025; ZONA SUL ;Manhã;Cheesecake;1;16,21;Pix
+75;09/08/2025;centro;Manhã;Espresso;3;75,05;Débito
+76;28/08/2025;centro;Manhã;Cheesecake;3;89,81;Débito
+77;25/07/2025; ZONA SUL ;Manhã;Água;1;45,49;Dinheiro
+78;17/08/2025;Zona Sul;Noite;Pão de Queijo;8;132,05;Pix
+79;03/07/2025;Shopping Iguatemi;Tarde;Frappuccino;1;28,40;Dinheiro
+80;01/06/2025;Zona Sul;Tarde;Espresso;1;48,24;Pix
+81;27/06/2025;Centro;Noite;Croissant;1;14,17;Pix
+82;15/08/2025; ZONA SUL ;Manhã;Croissant;3;65,31;Dinheiro
+83;11/08/2025;Zona Sul;Tarde;Espresso;1;48,10;Pix
+84;01/07/2025;Aeroporto;Tarde;Pão de Queijo;1;-48,30;Débito
+85;09/06/2025;Zona Sul;Noite;Croissant;1;;Débito
+86;03/06/2025;Centro;Manhã;Suco de Laranja;2;48,34;Débito
+87;04/07/2025;Zona Sul;Manhã;Espresso;1;34,51;Pix
+88;21/08/2025;Centro;Tarde;Croissant;1;35,05;Crédito
+89;19/06/2025;Aeroporto;Noite;Água;2;70,92;Débito
+90;16/08/2025;Shopping Iguatemi;Noite;Frappuccino;1;29,24;Dinheiro
+91;01/08/2025;Centro;Tarde;Suco de Laranja;1;46,50;Crédito
+92;01/06/2025;centro;Manhã;Frappuccino;2;17,17;Crédito
+93;02/08/2025;Shopping Iguatemi;Noite;Espresso;1;20,56;Débito
+94;17/06/2025;Zona Sul;Tarde;Suco de Laranja;1;17,37;credito
+95;12/06/2025;Centro;Manhã;Pão de Queijo;1;43,08;Pix
+96;10/06/2025;Zona Sul;Manhã;Cappuccino;1;;Crédito
+97;26/08/2025;Centro;Tarde;Cappuccino;1;26,46;Dinheiro
+98;24/07/2025;Centro;Noite;Cheesecake;3;64,00;Dinheiro
+99;02/08/2025;Zona Sul;Noite;Água;1;31,62;Crédito
+100;27/08/2025;Centro;Manhã;Pão de Queijo;1;;Dinheiro
+101;02/08/2025;Zona Sul;Tarde;Cappuccino;1;28,37;Crédito
+102;30/06/2025;Centro;Tarde;Cheesecake;1;37,50;Crédito
+103;02/06/2025;Aeroporto;Tarde;Croissant;1;37,57;
+104;04/06/2025;Centro;Tarde;Suco de Laranja;1;24,05;Débito
+105;23/08/2025;Shopping Iguatemi;Noite;Água;1;24,76;Crédito
+106;28/07/2025;Aeroporto;Manhã;Frappuccino;1;46,67;Crédito
+107;26/08/2025;Shopping Iguatemi;Manhã;Água;1;29,04;Débito
+108;17/07/2025;Shopping Iguatemi;Manhã;Frappuccino;1;33,11;Débito
+109;07/07/2025;centro;Noite;Pão de Queijo;1;-48,73;Débito
+110;25/08/2025;Shopping Iguatemi;Tarde;Cappuccino;3;90,65;Dinheiro
+111;28/07/2025;centro;Manhã;Frappuccino;1;27,35;Pix
+112;05/06/2025;Shopping Iguatemi;Manhã;Croissant;1;40,27;Pix
+113;04/08/2025;Shopping Iguatemi;Manhã;Frappuccino;1;17,23;Dinheiro
+114;12/06/2025;centro;Noite;Suco de Laranja;1;30,68;Crédito
+115;11/07/2025;Zona Sul;Tarde;Frappuccino;2;25,83;Crédito
+116;19/08/2025;Shopping Iguatemi;Noite;Frappuccino;1;45,47;credito
+117;04/06/2025; ZONA SUL ;Noite;Pão de Queijo;1;29,50;Débito
+118;04/08/2025; ZONA SUL ;Manhã;Cheesecake;1;24,39;Crédito
+119;11/07/2025;Centro;Manhã;Cheesecake;2;;Dinheiro
+120;07/06/2025;centro;Tarde;Suco de Laranja;2;96,51;Débito
