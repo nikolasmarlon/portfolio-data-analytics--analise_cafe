@@ -53,6 +53,7 @@ def carregar_e_limpar_dados(caminho_arquivo):
     dataFrame['data'] = pandas.to_datetime(dataFrame['data'], format='%d/%m/%Y', errors='coerce')
 
     # Tratamento de dados faltantes
+    # Essa técnica se chama imputação
     mediana_valor = dataFrame['valor_total_compra'].median()
     dataFrame['valor_total_compra'].fillna(mediana_valor, inplace=True)
     dataFrame['forma_pagamento'].fillna('Não informado', inplace=True)
